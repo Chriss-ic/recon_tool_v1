@@ -9,4 +9,12 @@ Writes all findings to an output file.
 Dependencies 
  - subfinder
    ``go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest``
+- assetfinder
+  ``sudo apt install assetfinder``
 - Go
+
+How to run:
+- Fork or download the script
+- Modify the file permissions
+- run the script and provide the target domain when prompted.
+- Leave the rest to Chakra
